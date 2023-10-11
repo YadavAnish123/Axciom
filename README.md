@@ -1,4 +1,5 @@
- 
+# Axciom
+assignment
 
 ## Installation
 
@@ -10,3 +11,4 @@ npm install
 # Install frontend dependencies
 cd ../frontend
 npm install
+
